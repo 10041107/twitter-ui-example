@@ -22,31 +22,33 @@ TypeScript를 사용하며, Radix UI 컴포넌트를 통해 접근성과 사용�
 - Node.js (LTS 버전)
 - npm 또는 Yarn
 <br/>
+
 ### 설치 방법
 
-1. 저장소를 클론합니다:
-<br/>
-```bash
+1. 저장소를 클론합니다:   
+<br/>  
+```  
+bash   
 git clone https://github.com/yourusername/twitter-typescript-example.git
-cd twitter-typescript-example  
-```
-
-2. 의존성을 설치합니다:   
-<br/>
-```
-bash
-Copy code
-npm install
-# 또는
-yarn install
-```
-3. 개발 서버를 시작합니다:  
-<br/>
-
-```
-npm run dev
-# 또는
-yarn dev
-```
+cd twitter-typescript-example    
+```  
+  
+2. 의존성을 설치합니다:     
+<br/>  
+```  
+bash  
+Copy code  
+npm install  
+# 또는  
+yarn install  
+```  
+3. 개발 서버를 시작합니다:    
+<br/>  
+  
+```  
+npm run dev  
+# 또는  
+yarn dev  
+```  
 
 브라우저에서 http://localhost:3000을 열어 결과를 확인하세요.

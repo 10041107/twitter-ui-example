@@ -25,25 +25,25 @@ TypeScript를 사용하며, Radix UI 컴포넌트를 통해 접근성과 사용�
 
 ### 설치 방법
 
+<br/>
 1. 저장소를 클론합니다:   
-<br/>  
+
 ```  
-bash   
 git clone https://github.com/yourusername/twitter-typescript-example.git
 cd twitter-typescript-example    
-```  
-  
+```
+
+<br/>
 2. 의존성을 설치합니다:     
-<br/>  
+
 ```  
-bash  
 Copy code  
 npm install  
 # 또는  
 yarn install  
-```  
+```
+<br/>
 3. 개발 서버를 시작합니다:    
-<br/>  
   
 ```  
 npm run dev  
